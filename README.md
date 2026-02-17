@@ -26,3 +26,15 @@ The main goal of this project was to practice and understand:
 - CSS
 - JSON
 
+## ⚙️ How to Run
+
+### Install dependencies
+
+npm install 
+
+Run the server
+node index.js
+
+Open in browser
+http://localhost:3000
+
