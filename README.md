@@ -16,3 +16,13 @@ The main goal of this project was to practice and understand:
 - How to read and use JSON data as a data source
 - How to send data from server to EJS templates
 - How dynamic rendering works
+
+## 🛠️ Tech Stack
+
+- Node.js
+- Express.js
+- EJS
+- HTML
+- CSS
+- JSON
+
