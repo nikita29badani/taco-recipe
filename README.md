@@ -38,3 +38,6 @@ node index.js
 Open in browser
 http://localhost:3000
 
+This version makes you look like someone who is **intentionally learning backend**, not someone who “just made a random small project”.
+
+
